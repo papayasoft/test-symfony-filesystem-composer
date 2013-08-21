@@ -1,0 +1,10 @@
+{
+	"name" : "dwsla/test",
+	"description" : "test",
+	"license" : "proprietary",
+
+	"require" : {
+		"symfony/filesystem" : "dev-master"
+	}
+}
+
